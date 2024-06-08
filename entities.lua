@@ -1,3 +1,4 @@
+local sounds = require("__core__.prototypes.utility-sounds")
 data:extend({
   {
     type = "assembling-machine",

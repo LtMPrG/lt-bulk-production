@@ -1,0 +1,9 @@
+{
+"name": "lts-bulk-production",
+"version": "0.0.1",
+"title": "Lt's Bulk Production",
+"author": "LtMPrG",
+"factorio_version": "1.1",
+"dependencies": ["base"],
+"description": "Adds bulk production of resources & machines at a slight reduction in crafting time."
+}
